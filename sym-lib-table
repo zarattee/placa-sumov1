@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name EESTN51)(type Legacy)(uri "F:/Dropbox/EEST5 Alumnos/Librerias Kicad/EESTN5.lib")(options "")(descr ""))
+  (lib (name display)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/display.lib)(options "")(descr ""))
+  (lib (name graphic_symbols)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/graphic_symbols.lib)(options "")(descr ""))
+  (lib (name opto)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/opto.lib)(options "")(descr ""))
+  (lib (name ac-dc)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/ac-dc.lib)(options "")(descr ""))
+  (lib (name device)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/device.lib)(options "")(descr ""))
+  (lib (name 2018---MiniSumo---NANO---DRV8872-rescue)(type Legacy)(uri "${KIPRJMOD}/2018 - MiniSumo - NANO - DRV8872-rescue.lib")(options "")(descr ""))
+  (lib (name 2020---Equisdecito-rescue)(type Legacy)(uri "${KIPRJMOD}/2020 - Equisdecito-rescue.lib")(options "")(descr ""))
+)
