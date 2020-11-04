@@ -1,0 +1,33 @@
+﻿********* Lista de tareas pendientes del proyecto  **************
+Formato:
+
+[
+Fecha:
+Nombre tarea:
+Descripción:
+]
+
+[
+04/11/2020
+Serigrafía Bottom
+Quitar el texto plano de "Robotica Tecnica 5" y agregar logos y leyendas de fabricación
+]
+
+[
+04/11/2020
+SCH en formato PDF	
+Generar el SCH en formato PDF
+]
+
+[
+04/11/2020
+Dimensiones de edge.cuts	
+Ajustar las dimensiones de la placa a un numero redondo en mm
+]
+
+[
+04/11/2020
+Lista de materiales Digi-Key	
+Exportar la lista de materiales con el formato para digi-key
+Para ello debemos editar los componentes de la libreria de la escuela para agregar los campos necesarios
+]
