@@ -17,12 +17,14 @@ Quitar el texto plano de "Robotica Tecnica 5" y agregar logos y leyendas de fabr
 04/11/2020
 SCH en formato PDF	
 Generar el SCH en formato PDF
+***************Hecho MB 06/01/2021**********
 ]
 
 [
 04/11/2020
 Dimensiones de edge.cuts	
 Ajustar las dimensiones de la placa a un numero redondo en mm
+***************Hecho MB 06/01/2021**********
 ]
 
 [
