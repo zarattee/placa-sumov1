@@ -1,16 +1,16 @@
 EESchema Schematic File Version 4
 LIBS:2020 - Equisdecito-cache
-EELAYER 29 0
+EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "Robot Mini Sumo"
-Date "2018-05-30"
+Title "Robot Sumo"
+Date "2021-01-07"
 Rev "1.0"
-Comp "E.E.S.T. N°5"
-Comment1 "Autor: Ing. Mariano Bustos"
-Comment2 "Club de Robótica"
+Comp "4 D E V"
+Comment1 "Autor: TEC. ZARATE ELIAS"
+Comment2 "4DEV ROBOTIC"
 Comment3 ""
 Comment4 ""
 $EndDescr
@@ -55,17 +55,6 @@ F 1 "+3.3V" H 10350 1085 28  0000 C CNN
 F 2 "" H 10350 950 50  0000 C CNN
 F 3 "" H 10350 950 50  0000 C CNN
 	1    10350 950 
-	1    0    0    -1  
-$EndComp
-$Comp
-L EESTN5:LOGO_ROTULO #G1
-U 1 1 591C26A2
-P 9135 6830
-F 0 "#G1" H 9135 6608 60  0001 C CNN
-F 1 "LOGO_ROTULO" H 9135 7052 60  0001 C CNN
-F 2 "" H 9135 6830 60  0001 C CNN
-F 3 "" H 9135 6830 60  0001 C CNN
-	1    9135 6830
 	1    0    0    -1  
 $EndComp
 $Comp
